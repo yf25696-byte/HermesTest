@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "react-scripts start",
-    "build": "tailwindcss -i ./src/index.css -o ./public/output.css && react-scripts build"
+    "build": "react-scripts build"
   },
   "dependencies": {
     "react": "^18.2.0",
